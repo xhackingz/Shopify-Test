@@ -1,1 +1,3 @@
 https://{Api_key}:{Api_password}@{Shop_Domain.myshopfiy.com}/admin/api/2025-01/customers.json
+
+/admin/api/2023-07/orders.json?limit=250
